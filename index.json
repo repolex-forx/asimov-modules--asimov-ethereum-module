@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-ethereum-module",
+  "versions": [
+    {
+      "commit": "7f10a8ec82b05f95f1d07be31101c514207c8340",
+      "tag": "0.0.1",
+      "parsed_at": "2026-09-28T07:41:22.046775+00:00"
+    }
+  ]
+}
